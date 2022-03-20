@@ -1,0 +1,11 @@
+{"namespace": "br.com.kafkafull.model",
+  "type": "record",
+  "name": "PessoaDTO",
+  "fields": [
+    {"name": "nome", "type": "string"},
+    {"name": "sobrenome",  "type": "string"}
+  ]
+}
+
+
+
